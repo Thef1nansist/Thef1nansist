@@ -1,7 +1,7 @@
 ### Hi there, I'm Vlad👋
 
 [![Website](https://img.shields.io/website?label=TheF1nansist.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)][website]
-[![Instagram Follow](https://img.shields.io/instagramm/follow/Thef1nansist?color=1DA1F2&logo=instagramm&style=for-the-badge)][https://www.instagram.com/thef1nansist/]
+[![Instagram Follow](https://img.shields.io/instagram/follow/Thef1nansist?color=1DA1F2&logo=instagram&style=for-the-badge)][https://www.instagram.com/thef1nansist/]
 
 ## I'm a student, young, novice Developer, and an ordinary guy
 
