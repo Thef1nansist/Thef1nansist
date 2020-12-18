@@ -18,7 +18,7 @@
 ### Connect with me:
 
 [<img align="left" alt="TheF1nansist.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="TheF1nansist | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="TF1nansist | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Thef1nansist | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
@@ -46,6 +46,6 @@
 
 [website]: https://vk.com/thef1nansist
 [instagram]: https://instagram.com/Thef1nansist
-[twitter]: https://twitter.com/TheF1nansist
+[twitter]: https://twitter.com/TF1nansist
 
 
