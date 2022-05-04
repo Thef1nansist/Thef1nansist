@@ -5,7 +5,6 @@
 
 ## I'm a student, young, novice Developer, and an ordinary guy
 
-- 🔭 I'm a second year student at BSTU
 - 🌱 I’m currently learning everything 🤣
 - 👯 I want to develop and do different internships
 - 🥅 2020 Goals: Pull up on C # and pass the term paper (my programming language)
