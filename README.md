@@ -5,11 +5,6 @@
 
 ## I'm a student, young, novice Developer, and an ordinary guy
 
-- 🌱 I’m currently learning everything 🤣
-- 👯 I want to develop and do different internships
-- 🥅 2020 Goals: Pull up on C # and pass the term paper (my programming language)
-- ⚡ Fun fact: I love playing football and spending time with my friends
-
 ### Spotify Playing 🎧
 
 
